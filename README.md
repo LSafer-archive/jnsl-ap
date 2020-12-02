@@ -1,4 +1,4 @@
-# jnslap
+# JNSL-AP
 Java New Standard Library | Annotation Processor
 
 

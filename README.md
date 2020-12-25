@@ -1,12 +1,14 @@
 # JNSL-AP
 Java New Standard Library | Annotation Processor
 
-
 # **NOTE!!!**
 This project is still under development and It will not work.
 Please do not depend on it until it gets a release tag! 
 
-Imagine it!
+# **Another Note**
+This project might get discontiued, replaced or deleted. Annotation Processors are weak and have no much control over the compiler.
+
+# Imagine it!
 If you want a function that accepts any thing as a parameter (primitives included).
 You will not have to overload it many times with the same logic if there is an
 annotation processor that does the work for you!
